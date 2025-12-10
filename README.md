@@ -201,6 +201,7 @@ jupyter notebook MIS382N_Final_Project_Kickstarter.ipynb
 
 # Or use Google Colab (upload kaggle.json when prompted)
 ---
+```
 
 ## Acknowledgments
 
