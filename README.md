@@ -202,22 +202,6 @@ jupyter notebook MIS382N_Final_Project_Kickstarter.ipynb
 # Or use Google Colab (upload kaggle.json when prompted)
 ---
 
-## Repository Structure
-
-```
-├── MIS382N_Final_Project_Group10.ipynb   # Full analysis notebook
-├── README.md                             # This file
-└── images/                               # Figures for README
-    ├── final_model_comparison.png
-    ├── feature_importance.png
-    ├── binary_training_curves.png
-    ├── multiclass_confusion_xgb.png
-    ├── multiclass_confusion_lr.png
-    ├── success_rate_time.png
-    └── prediction_distribution.png
-
----
-
 ## Acknowledgments
 
 All data from Kaggle (by Alonso Puente):
